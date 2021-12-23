@@ -1,5 +1,5 @@
 # minimalist-life-blog
-A simple 3-page minimalist blog project
+A simple mobile responsive 3-page minimalist blog project
 
 Created with HTML and CSS flexbox
 
