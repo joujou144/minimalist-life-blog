@@ -1,6 +1,8 @@
 # minimalist-life-blog
 - A simple 3-page minimalist blog project
 - Created with HTML and CSS flexbox
+
+
 https://joujou144.github.io/minimalist-life-blog/
 
 ## Acknowledgments
